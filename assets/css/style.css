@@ -678,7 +678,7 @@ section {
   font-size: 14px;
 }
 .about .video-box {
-  background: url("assets/img/depan.jpg") center center no-repeat;
+  background: url("../assets/img/depan.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
