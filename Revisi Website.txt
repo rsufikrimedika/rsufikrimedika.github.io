@@ -1,0 +1,91 @@
+Website RSU Fikri Medika
+
+Yang Sudah di Selesaikan
+Tampilan Dasboard :
+- Tanya Jawab Website
+Pertanyaan lebih ditambahkan
+- Artikel dan Berita
+- Departemen diganti dengan Kegiatan Jadwal Harian (Pengumuman)
+- Whatsapp sudah dilengkapi fitur format pesan
+- Hightlight DiPerbarui minimal 4
+- Video Company Profil
+- Membuat janji dengan dokter (Database Google Spreadsheet) tambahkan nomer wa untuk konfirmasi
+Tampilan Menu (Isi Menu pada Tampilan sudah diisi):
+- Tentang Kami (Visi & Misi, Moto)
+- Jadwal Dokter (Foto formal dokter)
+- Fasilitas (Semua foto diganti dengan angle)
+- Rekrutmen Dokter, Perawat dan Staff
+lokasi syuting foto diganti depan ugd(ambulance)
+(berita dan artikel masukan semua)
+(membuat video tutorial pendaftaran rawat jalan dan rawat inap)
+
+Yang Sedang di Progress:
+- Foto Fasilitas (IGD, Kamar Operasi, MCU, USG 3D & 4D)
+- Kritik dan Saran masih belum konek ke Database Goggle Spreadsheet tapi sudah ada database nya
+
+Yang Belum di Update :
+- Foto Dokter untuk Tampilan Utama di Dokter RSU Fikri Medika dan juga Jadwal Dokter
+- Testimonial
+
+          <div class="mb-3">
+            <div class="loading">Loading</div>
+            <div class="error-message"></div>
+            <div class="sent-message">Permintaan janji temu Anda telah berhasil dikirim. Terima kasih!</div>
+          </div>
+
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Pesan Anda telah dikirim. Terima kasih!</div>
+              </div>
+              <div class="text-center"><button type="submit">Kirim Pesan</button></div>
+            </form>
+
+        Readme.txt
+        ambulance.html
+        assets/
+        changelog.txt
+        farmasi.html
+        fisiotheraphy.html
+        forms/
+        fotorontgent.html
+        header.html
+        hemodialisa.html
+        icu.html
+        igd.html
+        inner-page.html
+        jadwal.html
+        kamarop.html
+        laboratorium.html
+        mcu.html
+        rawatinap.html
+        rawatjalan.html
+        rehapmedik.html
+        rekrutmendokter.html
+        rekrutmenperawat.html
+        rekrutmenstaff.html
+        usg.html
+
+        git add assets/css/ambulance.css
+        git add assets/css/farmasi.css
+        git add assets/css/fisiotheraphy.css
+        git add assets/css/fotorontgent.css
+        git add assets/css/header.css
+        git add assets/css/hemodialisa.css
+        git add assets/css/icu.css
+        git add assets/css/igd.css
+        git add assets/css/jadwal.css
+        git add assets/css/kamarop.css
+        git add assets/css/laboratorium.css
+        git add assets/css/mcu.css
+        git add assets/css/rawatinap.css
+        git add assets/css/rawatjalan.css
+        git add assets/css/rehapmedik.css
+        git add assets/css/rekrutmendokter.css
+        git add assets/css/rekrutmenperawat.css
+        git add assets/css/rekrutmenstaff.css
+        git add assets/css/staff.css
+        git add assets/css/usg.css
+        git add assets/img/
+        git add assets/js/
+        git add assets/vendor/
