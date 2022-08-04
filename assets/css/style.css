@@ -679,7 +679,7 @@ section {
   font-size: 14px;
 }
 .about .video-box {
-  background: url("../img/fikrimedika.jpeg") center center no-repeat;
+  background: url("../assets/img/fikrimedika.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
